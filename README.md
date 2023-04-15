@@ -1,1 +1,2 @@
-# Introducao-a-redes-neurais-convolucionais-CNN-para-classificacao-de-imagens
+## Introdução a _redes neurais convolucionais_ (`CNN`) para classificação de imagens
+---
